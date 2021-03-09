@@ -1,0 +1,95 @@
+{
+  "libraryCardsAmount": 100,
+  "libraryCards": [
+    {
+      "id": 1,
+      "name": "José Sarney",
+      "date_format": "dd/mm/yyyy",
+      "date": "15/03/1985",
+      "description": "José Sarney de Araújo Costa, nascido José Ribamar Ferreira de Araújo Costa (Pinheiro, 24 de abril de 1930) é um advogado, político e escritor brasileiro, que serviu como o 20.º vice-presidente do Brasil durante 1985 e como o 31.º Presidente do Brasil de 1985 a 1990. Nascido em Pinheiro, no Maranhão, Sarney formou-se em direito na Universidade Federal do Maranhão em 1953, mesmo ano onde ingressou na Academia Maranhense de Letras. No ano seguinte, Sarney concorreu ao cargo de deputado federal pelo Maranhão, mesmo não conseguindo ser eleito, assumiu como suplente em 1955, dando início a sua carreira política.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Foto_Oficial_Sarney_EBC.jpg",
+      "references": [
+        "https://pt.wikipedia.org/wiki/Jos%C3%A9_Sarney",
+        "https://pt.wikipedia.org/wiki/Jos%C3%A9_Sarney",
+        "https://pt.wikipedia.org/wiki/Jos%C3%A9_Sarney"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fernando Collor",
+      "date_format": "dd/mm/yyyy",
+      "date": "15/03/1990",
+      "description": "Fernando Affonso Collor de Mello (Rio de Janeiro, 12 de agosto de 1949), mais conhecido como Fernando Collor, é um político brasileiro. Foi o 32º Presidente do Brasil, de 1990 até sua renúncia em 1992. Filiado ao Partido Republicano da Ordem Social (PROS), é senador por Alagoas desde 2007 e foi presidente da Comissão de Relações Exteriores do Senado de 2017 até 2019.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fernando_Collor_de_Mello.jpg",
+      "references": [
+        "https://pt.wikipedia.org/wiki/Fernando_Collor_de_Mello"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Itamar Franco",
+      "date_format": "dd/mm/yyyy",
+      "date": "29/12/1992",
+      "description": "Itamar Augusto Cautiero Franco (Mar territorial brasileiro, 28 de junho de 1930 — São Paulo, 2 de julho de 2011) foi um engenheiro, militar e político brasileiro. Foi o 21.º Vice-presidente do Brasil durante o governo de Fernando Collor e, após o titular ter sido afastado da presidência por um processo de impeachment, assumiu como o 33.º presidente do Brasil, tendo governado entre 1992 e 1995. Foi também senador por Minas Gerais por dois mandatos e governador do estado de Minas Gerais.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Itamar_Augusto_Cautiero_Franco.gif",
+      "references": [
+        "https://pt.wikipedia.org/wiki/Itamar_Franco"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fernando Henrique Cardoso",
+      "date_format": "dd/mm/yyyy",
+      "date": "01/01/1995",
+      "description": "Fernando Henrique Cardoso também conhecido como FHC (Rio de Janeiro, 18 de junho de 1931), é um sociólogo, cientista político, professor universitário, escritor e político brasileiro. Foi o 34.º presidente da República Federativa do Brasil entre 1995 e 2003. Natural da cidade do Rio de Janeiro, mudou-se com sua família para a cidade de São Paulo, onde se casou em 1953 com a antropóloga e sua colega de faculdade Ruth Vilaça Correia Leite, com quem teve três filhos. FHC graduou-se em Sociologia pela Universidade de São Paulo e mais tarde tornou-se professor emérito daquela universidade. Foi perseguido depois do golpe militar de 1964, exilando-se no Chile e na França, voltando ao Brasil em 1968. Lecionou em universidades estrangeiras e desenvolveu uma importante carreira acadêmica, tendo produzido diversos estudos sociais premiados.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Fernando_Henrique_Cardoso_%281999%29.jpg",
+      "references": [
+        "https://pt.wikipedia.org/wiki/Fernando_Henrique_Cardoso"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Luiz Inácio Lula da Silva",
+      "date_format": "dd/mm/yyyy",
+      "date": "01/01/2003",
+      "description": "Luiz Inácio Lula da Silva, nascido Luiz Inácio da Silva (Luís, na ortografia oficial) e mais conhecido como Lula (Caetés, 27 de outubro de 1945), é um político, ex-sindicalista e ex-metalúrgico brasileiro, principal fundador do Partido dos Trabalhadores (PT) e o 35º presidente do Brasil, tendo exercido o cargo de 1º de janeiro de 2003 a 1º de janeiro de 2011.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lula_-_foto_oficial_-_05_jan_2007.jpg",
+      "references": [
+        "https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dilma Rousseff",
+      "date_format": "dd/mm/yyyy",
+      "date": "01/01/2011",
+      "description": "Dilma Vana Rousseff (Belo Horizonte, 14 de dezembro de 1947) é uma economista e política brasileira, filiada ao Partido dos Trabalhadores (PT) e 36ª Presidente do Brasil, tendo exercido o cargo de 2011 até seu afastamento por um processo de impeachment em 2016.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg",
+      "references": [
+        "https://pt.wikipedia.org/wiki/Dilma_Rousseff"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Michel Temer",
+      "date_format": "dd/mm/yyyy",
+      "date": "31/08/2016",
+      "description": "Michel Miguel Elias Temer Lulia (Tietê, 23 de setembro de 1940) é um político, advogado e escritor brasileiro, que serviu como o 37.º Presidente do Brasil de 31 de agosto de 2016, empossado após o impeachment da titular, Dilma Rousseff, a 1 de janeiro de 2019. Anteriormente, foi o 24.º Vice-presidente do Brasil, entre 1 de janeiro de 2011 e 31 de agosto de 2016, tornando-se, desde 1985, o terceiro vice-presidente membro de seu partido, o Movimento Democrático Brasileiro (MDB), que chegou à Presidência da República sem ser eleito diretamente para o cargo. Anteriormente, exerceu também os cargos de presidente da Câmara dos Deputados, deputado federal, secretário da Segurança Pública e procurador-geral do estado de São Paulo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Michel_Temer_%28foto_oficial%29.jpg",
+      "references": [
+        "https://pt.wikipedia.org/wiki/Michel_Temer"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Jair Bolsonaro",
+      "date_format": "dd/mm/yyyy",
+      "date": "01/01/2019",
+      "description": "Jair Messias Bolsonaro (Glicério, 21 de março de 1955) é um capitão reformado, político e atual presidente do Brasil. Foi deputado federal por sete mandatos entre 1991 e 2018, sendo eleito através de diferentes partidos ao longo de sua carreira. Elegeu-se à presidência pelo Partido Social Liberal (PSL), ao qual foi filiado até novembro de 2019. Três de seus filhos também são políticos: Carlos Bolsonaro (vereador do Rio de Janeiro pelo Partido Social Cristão), Flávio Bolsonaro (senador fluminense pelo PSL e comandante da legenda no estado) e Eduardo Bolsonaro (deputado federal por São Paulo, também pelo PSL).",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29.jpg",
+      "references": [
+        "https://pt.wikipedia.org/wiki/Jair_Bolsonaro"
+      ]
+    }
+  ]
+}

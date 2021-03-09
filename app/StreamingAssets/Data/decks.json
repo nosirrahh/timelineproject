@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Presidentes do Brasil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+    "description": "Esta lista de presidentes do Brasil compreende todas as pessoas que exerceram a chefia de governo e de Estado no país desde a Proclamação da República, em 15 de novembro de 1889. A lista inclui também aqueles que, tendo sido eleitos, não exerceram o mandato por morte ou impedimento, bem como as duas juntas militares provisórias no regime Presidencialista.",
+    "references": [
+      "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Presidentes do Brasil II",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+    "description": "Esta lista de presidentes do Brasil compreende todas as pessoas que exerceram a chefia de governo e de Estado no país desde a Proclamação da República, em 15 de novembro de 1889. A lista inclui também aqueles que, tendo sido eleitos, não exerceram o mandato por morte ou impedimento, bem como as duas juntas militares provisórias no regime Presidencialista.",
+    "references": [
+      "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil"
+    ]
+  }
+]
